@@ -116,7 +116,7 @@ This cookbook contains the following recipes.
   * Sets StrongSwan start on boot
 
 * `strongswanaws::tunnels` - This recipe does the following.
-  * Writes PSK's to the secrets file
+  * Writes PSKs to the secrets file
   * Configures tunnels to which StrongSwan will connect
 
 ## Usage
